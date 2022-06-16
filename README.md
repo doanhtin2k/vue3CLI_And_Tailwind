@@ -7,7 +7,7 @@
 # Bước 3 tạo ra tailwind.config.js, postcss.config.js
       + npx tailwindcss init -p
       
-      ![Capture](https://user-images.githubusercontent.com/76818598/174048280-2fbfbf5a-3169-4108-8d88-3970ea44cbe3.PNG)
+![Capture](https://user-images.githubusercontent.com/76818598/174048360-e14f6899-c152-4ceb-b013-01e2d99eaef7.PNG)
 
 # Bước 4 tạo index.css trong src
       + với nội dung
