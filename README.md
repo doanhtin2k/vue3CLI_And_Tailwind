@@ -1,7 +1,7 @@
 # vue3CLI_And_Tailwind
 # Bước 1 create project
       + vue create project
-# Bước 2 : install tailwindcss, postcss, autoprefixer, vue-cli-plugin-tailwind
+# Bước 2 : install tailwindcss, postcss, autoprefixer
       + cd project
       + npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
 # Bước 3 tạo ra tailwind.config.js, postcss.config.js
